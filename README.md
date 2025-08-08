@@ -24,7 +24,7 @@ The LED switches **ON in the dark** and **OFF in bright light**, ideal for energ
 ---
 
 ## 📝 Arduino Code:
-See the `SmartLight.ino` file in this repo.
+See the `mart_light_control_system.ino` file in this repo.
 
 ---
 
